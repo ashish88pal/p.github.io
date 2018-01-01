@@ -1583,9 +1583,10 @@ pre code {
 	
 }
 #lovea {
-	background-color: #1adde8 ;
+	background-color: #2fd9da;
 	border-radius: 15px;
-	box-shadow: 0px 0px 5px 5px #39bff5; 
+	box-shadow: 0px 0px 20px 8px #000000;
+	color: #000000;
 }
 
 
@@ -1594,7 +1595,15 @@ pre code {
 	
 	
 }
-
+#zxn{
+	text-align: center;
+	font-size: 30px;
+	margin: 5px;
+}
+#azxn{
+	font-size: 25px;
+	padding-top: 20px;
+}
 #result {
 	 font-size: 50px;
 }
@@ -1603,8 +1612,19 @@ pre code {
 	padding-top: 15px;
 	 font-size: 40px;
 	 text-align: center;
+	color: #000000;
 }
 
+.vv{
+	background-color: #000000;
+	color: #f8f0d5;
+	box-shadow: 0px 0px 5px 1px #000000;
+}
+.vb{
+	color: #ff0000;
+	text-align: center;
+	
+}
 #quts {
 	
       background: url(../images/quotes.png) no-repeat 0px 0px;
@@ -1616,7 +1636,9 @@ pre code {
 #cl {
 	 font-size: 20px;
 	 margin-bottom: 10px;
+	
 }
+
 
 #warning{
 	font-size: 15px;

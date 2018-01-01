@@ -374,6 +374,10 @@ ul.agile_forms li{
 	-o-text-shadow: 1px 1px 2px rgb(12, 12, 12);
 	-moz-text-shadow: 1px 1px 2px rgb(12, 12, 12);
 }
+.zm{
+	text-align: center;
+}
+
 .hvr-shutter-in-vertical {
   display: inline-block;
   vertical-align: middle;
@@ -1731,4 +1735,5 @@ button.btn1:hover i.fa.fa-paper-plane-o{
 	padding-top: 10px;
 	}
 	}
+	
 /* responsive design */
