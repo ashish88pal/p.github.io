@@ -310,7 +310,7 @@ ul.agile_forms li{
     background: #e04646;
 }
 .bannerimg{
-    background: url(../images/banana.png) no-repeat 0px 0px;
+    background: url(../images/1.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -320,7 +320,7 @@ ul.agile_forms li{
 	margin:15em 0 0;
 }
 .bannerimg1{
-    background: url(../images/apple.png) no-repeat 0px 0px;
+    background: url(../images/2.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -330,7 +330,7 @@ ul.agile_forms li{
 	margin:15em 0 0;
 }
 .bannerimg2{
-    background: url(../images/lemon.png) no-repeat 0px 0px;
+    background: url(../images/3.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
