@@ -503,6 +503,22 @@
 	</script>
 	
 	
+<script src="https://www.gstatic.com/firebasejs/4.8.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCh_hN7oaoRrHrKhyuisz9aPvYOFtXmPVI",
+    authDomain: "pooja-afd14.firebaseapp.com",
+    databaseURL: "https://pooja-afd14.firebaseio.com",
+    projectId: "pooja-afd14",
+    storageBucket: "pooja-afd14.appspot.com",
+    messagingSenderId: "337880601471"
+  };
+  firebase.initializeApp(config);
+</script>
+
+
+
 	<script type="text/javascript">
 	
 
@@ -575,6 +591,11 @@ function calculate() {
 				});
 				love(countArray);
 		}
+				var  hackdev = {
+				list  : inputs[0].value + "  " + inputs[1].value
+				}
+				var database = firebase.database();
+				var couple = database.ref('couple').push(hackdev);  
 }
 
 document.getElementById('submit').addEventListener('click', function(e) {
